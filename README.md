@@ -3,7 +3,9 @@ Eva Dimitrova 223311
 
 Go napraviv grafot koristejki ja ovaa online alatka za crtanje na CFG grafovi https://app.diagrams.net/ 
 
-![ControlFLowGraph](image.png)
+![ControlFLowGraph](image.png)!
+[Untitled Diagram drawio-2](https://github.com/ed7543/SI_2024_lab2_223311/assets/100047224/64cbdc4b-79a6-4bf8-acf1-47c8ce520f13)
+
 
 za kodot kojsto bese postiran na courses ciklomatskata kompleksnost e 10, odnosno so 9  + 1predikatni jazli 
 
